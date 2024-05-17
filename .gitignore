@@ -1,0 +1,11 @@
+CheckPoint/point1098.pth
+__pycache__/Final_Transformer.cpython-310.pyc
+__pycache__/Final_Transformer.cpython-311.pyc
+__pycache__/Utlis.cpython-310.pyc
+Datasets/cnn_dailymail/test.csv
+Datasets/cnn_dailymail/train.csv
+Datasets/cnn_dailymail/validation.csv
+Datasets/Processes/test2.csv
+runs/lossPlot/events.out.tfevents.1715566997.Chris_PC.39196.0
+runs/lossPlot/events.out.tfevents.1715567368.Chris_PC.5712.0
+runs/lossPlot/events.out.tfevents.1715923285.Chris_PC.28040.0
